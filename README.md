@@ -1,14 +1,14 @@
 # interview-php
 PHP面试出题
-一、目标人选：基础扎实，逻辑严密，擅长自检，不骄不躁
+一、目标人选：基础扎实，逻辑严密，擅长自检，不骄不躁 小程序！
 <hr>
 
   1、手写json<br>
-  2、字符串操作<br>    
+  2、字符串操作<br>
   3、数组操作
-    push()、in_array()、array_key_exists()、explode()<br>    
+    push()、in_array()、array_key_exists()、explode()<br>  
   4、数据库操作
-    insert\update\group\limit\order\regexp<br>   
+    insert\update\group\limit\order\regexp<br>
   4、跨域问题<br>
 
 <hr>
@@ -24,4 +24,4 @@ PHP面试出题
   1、linux查看某进程，查看某端口，linux权限控制
   2、如何控制用户的登陆时间为1天
   3、Apache .htaccess/Nginx路由配置
-  4、
+  4、小程序！
